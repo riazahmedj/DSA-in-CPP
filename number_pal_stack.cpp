@@ -16,7 +16,7 @@ void push(Stack * sx, int x)
     //cout<<"pushed succfully\n";
     
 }
-
+// pop function
 
 int pop(Stack * sx)
 {
